@@ -29,7 +29,7 @@ Genie is an AI-powered virtual companion built using Python. It can perform vari
 
 1. **Run the Program**: Execute the `genie_virtual_companion.py` file to start the virtual companion:
    ```bash
-   python genie_virtual_companion.py
+   python genie.py
    ```
 
 2. **Speak Commands**: Once the program is running, speak commands such as asking questions, requesting weather updates, playing music, etc., to interact with the virtual companion.
