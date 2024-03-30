@@ -1,47 +1,72 @@
-# TNSDC_Generative-AI
-
 ```markdown
-# Genie - Your Virtual Assistant
+# Genie
 
-Genie is a virtual assistant powered by AI that can perform various tasks based on user commands, such as searching the web, playing music, sending emails, providing weather forecasts, and more.
+Genie is an AI-powered virtual companion built using Python. It can perform various tasks such as answering questions, searching Wikipedia, playing music, checking the weather forecast, sending emails, and more.
 
-## How to Use
+## Features
 
-1. Clone the repository to your local machine:
+- **Voice Recognition**: Uses speech recognition to understand user commands.
+- **Natural Language Understanding**: Can process natural language queries and provide relevant responses.
+- **Integration with OpenAI**: Provides intelligent responses using OpenAI's GPT models.
+- **Task Automation**: Performs tasks such as sending emails, playing music, searching Wikipedia, and more.
+
+## Installation
+
+1. **Clone the Repository**: Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/your-username/genie-virtual-assistant.git
+   git clone https://github.com/your_username/TNSDC_Generative_AI.git
    ```
 
-2. Install the required dependencies:
+2. **Install Dependencies**: Navigate to the project directory and install the required dependencies using pip:
    ```bash
+   cd TNSDC_Generative_AI
    pip install -r requirements.txt
    ```
 
-3. Set up your OpenAI API key:
-   - Sign up for an account and get your API key from [OpenAI's platform](https://platform.openai.com/account/api-keys).
-   - Replace `'your_openai_api_key'` in the code with your actual API key.
+3. **Set Up OpenAI API Key**: Obtain an API key from OpenAI for accessing GPT models and replace `YOUR_OPENAI_API_KEY` in the code with your actual API key.
 
-4. Run the `genie.py` script:
+## Usage
+
+1. **Run the Program**: Execute the `genie_virtual_companion.py` file to start the virtual companion:
    ```bash
    python genie.py
    ```
 
-5. Once the script is running, a Tkinter window will open. Type your queries into the input field and press the "Ask" button to get responses from Genie.
+2. **Speak Commands**: Once the program is running, speak commands such as asking questions, requesting weather updates, playing music, etc., to interact with the virtual companion.
+
+## Supported Commands
+
+- **Search Wikipedia**: Ask questions or search topics using Wikipedia.
+- **Open Websites**: Open YouTube, Google, Stack Overflow, etc., in a web browser.
+- **Play Music**: Play random music from a specified directory.
+- **Check Time**: Get the current time.
+- **Send Email**: Send emails to specified recipients.
+- **Check Weather**: Check the weather forecast for a specified location.
+- **Ask Genie**: Engage in conversation with your virtual companion
 
 ## Requirements
 
 - Python 3.x
-- pyttsx3==2.90
-- SpeechRecognition==3.8.1
-- wikipedia==1.4.0
-- geopy==2.2.0
-- requests==2.26.0
-- openai==0.11.2
-- tkinter
+- pyttsx3
+- speech_recognition
+- wikipedia
+- requests
+- geopy
+- openai
+
+## API Keys
+
+Make sure to obtain and set up the following API keys:
+
+- **OpenAI API Key**: Required for accessing GPT models from OpenAI.
+- **SMTP Server Credentials**: If using the email feature, provide SMTP server credentials for sending emails.
+
+## Contributing
+
+Contributions are welcome! If you have any ideas, feature requests, or bug reports, please open an issue or submit a pull request.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-Make sure to replace `'your_openai_api_key'` with your actual OpenAI API key in the README file. Additionally, you can add more details or sections as needed for your project.
