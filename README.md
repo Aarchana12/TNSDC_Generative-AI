@@ -1,3 +1,5 @@
+Got it. Here's the revised README.md with the file name and username updated:
+
 ```markdown
 # Genie
 
@@ -25,9 +27,11 @@ Genie is an AI-powered virtual companion built using Python. It can perform vari
 
 3. **Set Up OpenAI API Key**: Obtain an API key from OpenAI for accessing GPT models and replace `YOUR_OPENAI_API_KEY` in the code with your actual API key.
 
+4. **Set Up Email Credentials**: If you intend to use the email feature, replace `your_email@gmail.com` with your own email address and `your_email_password` with your email password in the code.
+
 ## Usage
 
-1. **Run the Program**: Execute the `genie_virtual_companion.py` file to start the virtual companion:
+1. **Run the Program**: Execute the `genie.py` file to start the virtual companion:
    ```bash
    python genie.py
    ```
@@ -42,7 +46,7 @@ Genie is an AI-powered virtual companion built using Python. It can perform vari
 - **Check Time**: Get the current time.
 - **Send Email**: Send emails to specified recipients.
 - **Check Weather**: Check the weather forecast for a specified location.
-- **Ask Genie**: Engage in conversation with your virtual companion!
+- **Ask Genie**: Engage in conversation and ask questions using OpenAI's GPT models.
 
 ## Requirements
 
@@ -67,8 +71,11 @@ Contributions are welcome! If you have any ideas, feature requests, or bug repor
 
 ## Contributors
 
-- [Aarchana12](https://github.com/Aarchana12) - Aarchana Nichani
+- [Aarchana12](https://github.com/Aarchana12) - Aarchana12
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
+
+Make sure to replace `YOUR_OPENAI_API_KEY`, `your_email@gmail.com`, and `your_email_password` with your actual OpenAI API key, email address, and email password, respectively.
