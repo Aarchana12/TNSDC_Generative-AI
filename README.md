@@ -67,7 +67,7 @@ Contributions are welcome! If you have any ideas, feature requests, or bug repor
 
 ## Contributors
 
-- [Aarchana12](https://github.com/Aarchana12) - Aarchana12
+- [Aarchana12](https://github.com/Aarchana12) - Aarchana Nichani
 
 ## License
 
