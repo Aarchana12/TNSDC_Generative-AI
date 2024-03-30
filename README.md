@@ -1,5 +1,3 @@
-Sure, here's the updated README.md with your GitHub username added under the contributors section:
-
 ```markdown
 # Genie
 
