@@ -1,3 +1,5 @@
+Sure, here's the updated README.md with your GitHub username added under the contributors section:
+
 ```markdown
 # Genie
 
@@ -14,7 +16,7 @@ Genie is an AI-powered virtual companion built using Python. It can perform vari
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/Archana12/TNSDC_Generative_AI.git
+   git clone https://github.com/your_username/TNSDC_Generative_AI.git
    ```
 
 2. **Install Dependencies**: Navigate to the project directory and install the required dependencies using pip:
@@ -29,7 +31,7 @@ Genie is an AI-powered virtual companion built using Python. It can perform vari
 
 1. **Run the Program**: Execute the `genie_virtual_companion.py` file to start the virtual companion:
    ```bash
-   python genie.py
+   python genie_virtual_companion.py
    ```
 
 2. **Speak Commands**: Once the program is running, speak commands such as asking questions, requesting weather updates, playing music, etc., to interact with the virtual companion.
@@ -42,7 +44,7 @@ Genie is an AI-powered virtual companion built using Python. It can perform vari
 - **Check Time**: Get the current time.
 - **Send Email**: Send emails to specified recipients.
 - **Check Weather**: Check the weather forecast for a specified location.
-- **Ask Genie**: Engage in conversation with your virtual companion
+- **Ask Genie**: Engage in conversation and ask questions using OpenAI's GPT models.
 
 ## Requirements
 
@@ -65,8 +67,10 @@ Make sure to obtain and set up the following API keys:
 
 Contributions are welcome! If you have any ideas, feature requests, or bug reports, please open an issue or submit a pull request.
 
+## Contributors
+
+- [Aarchana12](https://github.com/Aarchana12) - Aarchana12
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
