@@ -14,7 +14,7 @@ Genie is an AI-powered virtual companion built using Python. It can perform vari
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/your_username/TNSDC_Generative_AI.git
+   git clone https://github.com/Archana12/TNSDC_Generative_AI.git
    ```
 
 2. **Install Dependencies**: Navigate to the project directory and install the required dependencies using pip:
