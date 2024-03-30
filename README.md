@@ -42,7 +42,7 @@ Genie is an AI-powered virtual companion built using Python. It can perform vari
 - **Check Time**: Get the current time.
 - **Send Email**: Send emails to specified recipients.
 - **Check Weather**: Check the weather forecast for a specified location.
-- **Ask Genie**: Engage in conversation and ask questions using OpenAI's GPT models.
+- **Ask Genie**: Engage in conversation with your virtual companion!
 
 ## Requirements
 
